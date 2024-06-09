@@ -1,0 +1,6 @@
+name: BeautyQuestsEditor
+version: '${project.version}'
+main: EcoMineVN.BeautyQuestsEditor.Main
+# depend: [BeautyQuests]
+description: BeautyQuestsEditor
+authors: [ThinhPhan]

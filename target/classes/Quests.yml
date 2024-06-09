@@ -1,0 +1,61 @@
+Quests:
+ 1:
+  Id: 1
+  Points: 1
+  Rate: 10
+  Name: '<1> NhiV'
+  Icon: diamond
+  Lore:
+   - ''
+  Glowing: true
+  Permission: 'abc.xyz'
+ 2:
+  Id: 1
+  Points: 1
+  Rate: 10
+  Name: '<2> NhiV'
+  Icon: diamond
+  Lore:
+   - ''
+  Glowing: true
+  Permission: 'abc.xyz'
+ 3:
+  Id: 3
+  Points: 1
+  Rate: 10
+  Name: '<3> NhiV'
+  Icon: diamond
+  Lore:
+   - ''
+  Glowing: true
+  Permission: 'abc.xyz'
+ 4:
+  Id: 4
+  Points: 1
+  Rate: 10
+  Name: '<4> NhiV'
+  Icon: diamond
+  Lore:
+   - ''
+  Glowing: true
+  Permission: 'abc.xyz'
+ 5:
+  Id: 1
+  Points: 1
+  Rate: 10
+  Name: '<5> NhiV'
+  Icon: diamond
+  Lore:
+   - ''
+  Glowing: true
+  Permission: 'abc.xyz'
+ 6:
+  Id: 6
+  Points: 1
+  Rate: 10
+  Name: '<6> NhiV'
+  Icon: diamond
+  Lore:
+   - ''
+  Glowing: true
+  Permission: 'abc.xyz'

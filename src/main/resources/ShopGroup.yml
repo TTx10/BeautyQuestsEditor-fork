@@ -1,0 +1,46 @@
+Group:
+  thanhvanmon:
+    Reset: 100
+    Gui-Name: 'THANH VCHIC
+    Currency: thanhvanpoints
+    Currency-Prefix: '&cThanh V
+    Gui-shop:
+      1:
+        - 'xxxxxxxxx'
+        - 'x       x'
+        - 'x       a'
+        - 'x       b'
+        - 'x       x'
+        - 'xxxxxxxxx'
+      2:
+        - 'xxxxxxxxx'
+        - 'xe      x'
+        - 'x       a'
+        - 'x       b'
+        - 'x       x'
+        - 'xxxxxxxxx'
+    Item:
+      x:
+        Role: 'none'
+        Name: ''
+        Lore:
+        - ''
+        Icon: stained_glass_pane:15
+      a:
+        Role: nextpage
+        Name: 'Trang sau'
+        Lore:
+        - 'trang sau'
+        Icon: arrow
+      b:
+        Role: beforepage
+        Name: 'Trang tr
+        Lore:
+        - 'trang tr
+        Icon: arrow
+      e:
+        Save-id: test
+        Role: buy
+        Price: 1000
+        Permission: 'abc.xyz'
+        Amount: 10

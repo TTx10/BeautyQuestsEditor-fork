@@ -1,0 +1,17 @@
+Prefix: 'Prefix &7>'
+Message:
+ HandNullItem: '{prefix} &cHc1 vph
+ SaveItemFinish: '{prefix} &aLthc&6{item}'
+ PlayerOffline: '{prefix} &cNgchkhonline &e{player}'
+ GivePoints: '{prefix} &aGthccho &6{player}'
+ TargetGivePoints: '{prefix} &aBnh{points} {type}'
+ Reload: '{prefix} &aReload thc
+ UpdateShop: '{prefix} &b&lSHOP &6{prefix_shop} &acnhm
+ UpdateQuests: '{prefix} &6&lQUESTS &6{prefix_quests} &acnhm
+ BuyFull: '{prefix} &cBmua full sl&f{min}/{max}'
+ BuyNullMoney: '{prefix} &cBkh&6{value} {currency_prefix}'
+ BuyNullPerm: '{prefix} &cBkhcquymua vph
+ BuyFinish: '{prefix} &aMua thcbcthmua th&f{min}/{max}'
+ QuestsFinish: '{prefix} &aBnh&6{value} {currency_prefix}'
+ CheckPoints: '{prefix} &aBc&6{value} {curency_prefix}'
+ Permission: '{prefix} &cBkhcquynhnhivn

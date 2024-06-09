@@ -1,0 +1,39 @@
+Group:
+  thanhvanmon:
+    Points-Name: thanhvanpoints
+    Amount: 3
+    Reset: 10
+    QuestRandom:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    Page: 2
+    Gui-Name: '[ THANH VM]'
+    GuiEdit:
+    - 'xxxxxxxxx'
+    - 'x       x'
+    - 'x       a'
+    - 'x       b'
+    - 'x       x'
+    - 'xxxxxxxxx'
+    Item:
+      x:
+        Role: 'none'
+        Name: ''
+        Lore:
+        - ''
+        Icon: stained_glass_pane:15
+      a:
+        Role: nextpage
+        Name: 'Trang sau'
+        Lore:
+        - 'Ttrang sau'
+        Icon: arrow
+      b:
+        Role: beforepage
+        Name: 'Trang tr
+        Lore:
+        - 'Vtrang tr
+        Icon: arrow

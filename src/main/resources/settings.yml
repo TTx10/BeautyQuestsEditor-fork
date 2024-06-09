@@ -1,0 +1,17 @@
+
+#LoreSet TOP, BOTTOM
+ShopGui:
+ ShopItem:
+  Name: 'Mua {name_item}'
+  LoreSet: BOTTOM
+  Lore:
+   - ''
+   - 'Sl{amount}'
+   - 'Mua vgi{gia} {currency_prefix}'
+   - ''
+Inventory:
+ FinishItem:
+  Name: '&aNhivnh
+  Lore:
+  - ''
+  Icon: emerald
